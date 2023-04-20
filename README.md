@@ -39,24 +39,26 @@ To install the software, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. Configure the settings by copying the example configuration file and updating the values:
+4. Start the application using the provided command or script:
+
 
     ```bash
-    cp config.example.ini config.ini
-    ```
-
-5. Start the application using the provided command or script:
-
-    ```bash
-    npm start
-    ```
-
-    or
-
-    ```bash
-    python app.py
+    jupyter notebook
     ```
 
 6. Open a web browser and navigate to `http://localhost:3000` to access the application.
+7. Create an OpenAI API key from the OpenAI website '(https://beta.openai.com/)'.
+8. Replace the placeholder API key in the code with your actual OpenAI API key.
+9. Prepare a CSV file with prompts and completions as input data. Update the file path in the code to point to your CSV file.
 
-For additional installation options or troubleshooting, refer to the [documentation](docs/installation.md).
+## Usage
+1. Run the code in a Python environment to train the completion predictor using GPT-4 and generate completions for test data.
+2. The completion predictor's performance will be evaluated using R-squared, MSE, and MAE metrics, which will be printed on the console.
+3.You can modify the code to customize the prompts, completions, and other parameters as needed for your specific use case.
+
+## Contributing
+Contributions to this project are welcome! If you would like to contribute, please follow standard GitHub practices, such as forking the repository, creating a branch for your changes, and submitting a pull request with a clear description of your changes. Please ensure that your changes are well-tested and adhere to the project's coding standards.
+
+## License
+This software is released under the [MIT License](https://opensource.org/licenses/MIT).
+
