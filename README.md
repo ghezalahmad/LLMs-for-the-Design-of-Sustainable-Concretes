@@ -11,4 +11,52 @@ This repository showcases a novel approach to accelerate the discovery of sustai
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-#installation
+## Installation
+
+To install the software, follow these steps:
+
+1. Clone the repository to your local machine using `git clone`:
+
+    ```bash
+    git clone https://github.com/username/repo.git
+    ```
+
+2. Change directory to the cloned repository:
+
+    ```bash
+    cd repo
+    ```
+
+3. Install the dependencies using a package manager such as `npm` or `pip`:
+
+    ```bash
+    npm install
+    ```
+
+    or
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Configure the settings by copying the example configuration file and updating the values:
+
+    ```bash
+    cp config.example.ini config.ini
+    ```
+
+5. Start the application using the provided command or script:
+
+    ```bash
+    npm start
+    ```
+
+    or
+
+    ```bash
+    python app.py
+    ```
+
+6. Open a web browser and navigate to `http://localhost:3000` to access the application.
+
+For additional installation options or troubleshooting, refer to the [documentation](docs/installation.md).
