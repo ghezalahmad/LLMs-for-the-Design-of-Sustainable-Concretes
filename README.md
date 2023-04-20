@@ -62,3 +62,10 @@ Contributions to this project are welcome! If you would like to contribute, plea
 ## License
 This software is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Acknowledgements
+
+The following resources were used in the development of this project:
+
+- [OpenAI](https://openai.com) for providing the GPT-3.5-turbo API that powers the completion predictor.
+- [Pandas](https://pandas.pydata.org/) and [scikit-learn](https://scikit-learn.org/) libraries for data manipulation and machine learning capabilities in Python.
+
