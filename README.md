@@ -52,7 +52,7 @@ To install the software, follow these steps:
 9. Prepare a CSV file with prompts and completions as input data. Update the file path in the code to point to your CSV file.
 
 ## Usage
-1. Run the code in a Python environment to train the completion predictor using GPT-4 and generate completions for test data.
+1. Run the code in a Python environment to train the completion predictor using text-davinci-003 and generate completions for test data.
 2. The completion predictor's performance will be evaluated using R-squared, MSE, and MAE metrics, which will be printed on the console.
 3.You can modify the code to customize the prompts, completions, and other parameters as needed for your specific use case.
 
