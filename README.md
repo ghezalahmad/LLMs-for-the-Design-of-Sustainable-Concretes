@@ -11,6 +11,9 @@ The primary goal of this study is to compare the prediction performance of compr
 ICL performs just like GPR and  matches the performance of RF when supplied with small training data sets.
 Fine-tuning LLMs with general concrete design knowledge reduces prediction outliers and outperforms RF.
 
+![Uploading Bildschirmfoto 2023-04-21 um 13.33.38.png…]()
+
+
 ## Table of Contents
 
 - [Installation](#installation)
