@@ -40,11 +40,6 @@ To install the software, follow these steps:
 
 3. Install the dependencies using a package manager such as `npm` or `pip`:
 
-    ```bash
-    npm install
-    ```
-
-    or
 
     ```bash
     pip install -r requirements.txt
