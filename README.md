@@ -1,6 +1,6 @@
-# From Text to Cement: Developing Sustainable Concretes with In-Context Learning
+# From Text to Concrete: Developing Sustainable Concretes with In-Context Learning
 
-This repository contains the code and dataset for the study "From Text to Cement: Developing Sustainable Concretes with In-Context Learning". The project aims to improve the development of sustainable concrete formulations using in-context learning (ICL) and large language models (LLMs). By leveraging the potential of LLMs, this research aims to overcome the limitations of traditional methods and accelerate the discovery of novel, sustainable, and high-performance materials.
+This repository contains the code and dataset for the study "From Text to Concrete: Developing Sustainable Concretes with In-Context Learning". The project aims to improve the development of sustainable concrete formulations using in-context learning (ICL) and large language models (LLMs). By leveraging the potential of LLMs, this research aims to overcome the limitations of traditional methods and accelerate the discovery of novel, sustainable, and high-performance materials.
 
 #### Overview
 
